@@ -20,8 +20,6 @@
 - 🏆 **Top 10 out of 220+ teams** at SUDHEE 2026 National Hackathon
 - 🤖 Building toward **Full Stack + AI/ML + Agentic AI** development
 - 🌱 Currently mastering **CNNs, LLMs & FastAPI**
-- 💡 Founder of **ReadmeBoost** — AI-powered README generator for students
-- 🎯 Dream: Land an international remote role & hit 24 LPA
 
 ---
 
