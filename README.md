@@ -1,55 +1,36 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Haseeba%20Faiza&fontSize=56&fontColor=fff&fontAlignY=38&desc=Full%20Stack%20%C2%B7%20AI%2FML%20%C2%B7%20Building%20things%20that%20matter&descAlignY=60&descSize=17&animation=twinkling" />
+</div>
 
-```
- /\_____/\
-( ^ω^ )  📸  *click*
- )   (
-(_____)  "omg you look SO cool"
-```
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=900&color=FF79C6&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=70&lines=Full+Stack+%2B+AI%2FML+Developer+%F0%9F%A4%96;Top+10+%2F+220%2B+teams+%40+SUDHEE+2026+%F0%9F%8F%86;2nd+Year+CS+%40+MLRIT+Hyderabad+%F0%9F%8F%AB;Build+in+public.+Learn+out+loud.+Ship+fast.+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Haseeba%20Faiza&fontSize=60&fontColor=fff&fontAlignY=38&desc=Full%20Stack%20·%20AI%2FML%20·%20Building%20things%20that%20matter&descAlignY=60&descSize=18&animation=twinkling" />
-
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=800&color=FF79C6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Full+Stack+%2B+AI%2FML+Developer+%F0%9F%A4%96;2nd+Year+CS+%40+MLRIT+Hyderabad+%F0%9F%8F%AB;Top+10+%2F+220%2B+teams+%40+SUDHEE+2026+%F0%9F%8F%86;Building+in+public.+Shipping+fast.+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haseeba-faiza-489794340)
-[![GitHub](https://img.shields.io/badge/GitHub-Haseeba--f-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Haseeba-f)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://customer-churn-prediction-nmpej4eqzanretozy3cqgg.streamlit.app/)
-
-</div>
-
----
+<img align="right" width="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJ6enVoMnRjN2thc2o3Y3Uyem9hdW91bWx5cHV4NjBtN3VoNjlxMiZlcD12MV9pbnRlcm5hbGdfZ2lmX2J5X2lkJmN0PWc/ICOgUNjpvO0PC/giphy.gif" />
 
 ## `> whoami`
 
 ```python
 class Haseeba:
-    name        = "Haseeba Faiza"
-    role        = ["Full Stack Dev", "AI/ML Engineer", "Hackathon Builder"]
-    college     = "MLRIT Hyderabad · CS (Data Science) · 2nd Year"
-    cgpa        = 8.6
-    hackathons  = ["🏆 Top 10 / 220+ teams @ SUDHEE 2026"]
-    currently   = ["CNNs", "LangChain", "FastAPI", "Agentic AI"]
-    endgame     = "Build products. Start companies. Change stuff."
-    fun_fact    = "I vibe-code the boilerplate, learn the core myself 😤"
+    name     = "Haseeba Faiza"
+    roles    = ["Full Stack Dev", "AI/ML Engineer", "Hackathon Builder"]
+    college  = "MLRIT Hyderabad · CS Data Science · 2nd Year"
+    cgpa     = 8.6
+    won      = "🏆 Top 10 / 220+ teams @ SUDHEE 2026"
+    learning = ["CNNs", "LangChain", "Agentic AI", "Docker"]
+    goal     = "Build products. Start companies. Change stuff."
+    vibe     = "I vibe-code boilerplate, learn the core myself 😤"
 ```
+
+<br clear="right"/>
 
 ---
 
-## `> tech_stack --all`
+## `> tech_stack --list`
 
 <div align="center">
 
@@ -76,7 +57,6 @@ class Haseeba:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logo=groq&logoColor=white)
 
 </div>
 
@@ -88,30 +68,29 @@ class Haseeba:
 
 | ⚡ Project | 💬 What it does | 🛠 Stack | 🔗 |
 |---|---|---|---|
-| 🏦 **Customer Churn Prediction** | ANN predicting bank customer churn — live & deployed | TensorFlow · Streamlit · FastAPI | [→ Live](https://customer-churn-prediction-nmpej4eqzanretozy3cqgg.streamlit.app/) |
+| 🏦 **Customer Churn Prediction** | ANN predicting bank customer churn — deployed & live | TensorFlow · Streamlit · FastAPI | [→ Live](https://customer-churn-prediction-nmpej4eqzanretozy3cqgg.streamlit.app/) |
 | ⚖️ **LegalShe** | AI legal assistant built for women | React · Groq API · Express.js | [→ Repo](https://github.com/Haseeba-f) |
-| 🏙️ **AI Civic Issue Reporting** | **Top 10 @ SUDHEE 2026** — AI civic complaint platform | React · Python · AI | [→ Repo](https://github.com/Haseeba-f/civic-issue-reporting-system) |
+| 🏙️ **AI Civic Issue Reporting** | **Top 10 @ SUDHEE 2026** — AI-powered civic platform | React · Python · AI | [→ Repo](https://github.com/Haseeba-f/civic-issue-reporting-system) |
 | 📊 **Trader Sentiment Analysis** | Bitcoin Fear/Greed vs Hyperliquid trader behavior | Python · Pandas · KMeans · PCA | [→ Repo](https://github.com/Haseeba-f/trader_sentiment_analysis) |
-| 🎓 **PIS – Placement Intelligence** | ML-powered placement readiness scoring system | FastAPI · PostgreSQL · Streamlit | [→ Repo](https://github.com/Haseeba-f) |
-| ⚡ **GSAP Energy Drink Website** | Animated landing page with slick scroll effects | React · GSAP · Tailwind | [→ Repo](https://github.com/Haseeba-f/gsapawwards) |
+| 🤖 **Jarvis Clap Automation** | Double-clap detection launches apps in real time | Python · OpenCV | [→ Repo](https://github.com/Haseeba-f/jarvis-clap-automation) |
+| ⚡ **GSAP Energy Drink Site** | Animated landing page with scroll effects | React · GSAP · Tailwind | [→ Repo](https://github.com/Haseeba-f/gsapawwards) |
 
 </div>
 
 ---
 
-## `> git stats --username Haseeba-f`
+## `> git stats --user Haseeba-f`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Haseeba-f&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF79C6&icon_color=BD93F9&text_color=F8F8F2&border_radius=12" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haseeba-f&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF79C6&text_color=F8F8F2&border_radius=12" width="49%" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Haseeba-f&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF79C6&icon_color=BD93F9&text_color=F8F8F2&ring_color=FF79C6&border_radius=12&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haseeba-f&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF79C6&text_color=F8F8F2&border_radius=12&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Haseeba-f&theme=tokyonight&hide_border=true&background=0D1117&ring=FF79C6&fire=FFB86C&currStreakLabel=FF79C6&border_radius=12" width="60%" />
+<img src="https://streak-stats.demolab.com?user=Haseeba-f&theme=tokyonight&hide_border=true&background=0D1117&ring=FF79C6&fire=FFB86C&currStreakLabel=FF79C6&border_radius=12" width="55%" />
 
 </div>
 
@@ -142,48 +121,40 @@ class Haseeba:
          [✓] Groq API + LLMs     [✓] GSAP animations
 
 2026 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-     NOW → [→] CNNs + RNNs       [→] LegalShe deployment
-         [→] LangChain + Agents  [→] International internship
-         [ ] Docker + Cloud      [ ] Open source contributions
+NOW → [→] CNNs + RNNs + LSTMs    [→] LegalShe on Railway
+      [→] LangChain + Agents      [→] International internship
+      [ ] Docker + Cloud          [ ] Open source contributions
 
 2027 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-         [ ] Agentic AI systems  [ ] Startup attempt #1
-         [ ] 500+ DSA problems   [ ] Microsoft placement target
+      [ ] Agentic AI systems      [ ] Startup attempt #1
+      [ ] 500+ DSA problems       [ ] Microsoft placement target
 ```
 
 ---
 
-## `> cat ./achievements.log`
+## `> cat ./wins.log`
 
 ```diff
-+ 🏆  Top 10 out of 220+ teams — SUDHEE 2026 National Hackathon @ CBIT
-+ 🤝  Co-organized Ignitia 2K26 — National Hackathon, 200+ participants, ₹20K prize pool
-+ 🤖  Built AI Civic Issue Reporting System (React · Python · AI) in 24hrs
-+ 📊  Analyzed Hyperliquid trader behavior against Bitcoin Fear/Greed Index
-+ 🚀  Deployed 3+ ML/Full Stack projects — churn prediction live on Streamlit
-+ 🎓  CGPA: 8.6 — CS (Data Science) @ MLRIT Hyderabad
++ 🏆  Top 10 / 220+ teams — SUDHEE 2026 National Hackathon @ CBIT
++ 🤝  Co-organized Ignitia 2K26 — 200+ participants, ₹20K prize pool
++ 🚀  3+ deployed ML + Full Stack projects — live and working
++ 📊  Analyzed Hyperliquid trader behavior vs Bitcoin Fear/Greed end-to-end
++ 🤖  Built AI Civic Reporting System from scratch in hackathon hours
++ 🎓  CGPA 8.6 · CS (Data Science) · MLRIT Hyderabad
 ```
 
 ---
 
 <div align="center">
 
-```
-    /\_____/\
-   ( ≧ω≦ )  ← this cat believes in ur code
-    )     (
-   (_______)
-   
-"Build in public. Learn out loud. Ship fast."
-```
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJ6enVoMnRjN2thc2o3Y3Uyem9hdW91bWx5cHV4NjBtN3VoNjlxMiZlcD12MV9pbnRlcm5hbGdfZ2lmX2J5X2lkJmN0PWc/ICOgUNjpvO0PC/giphy.gif" width="80" />
 
-*— Haseeba Faiza, 2nd year, already dangerous 🔥*
+**"Build in public. Learn out loud. Ship fast."**
 
-</div>
-
-<div align="center">
+*— Haseeba Faiza · 2nd year · already dangerous 🔥*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Haseeba-f&color=FF79C6&style=for-the-badge&label=PROFILE+VIEWS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haseeba-faiza-489794340)
 
 </div>
 
