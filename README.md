@@ -13,55 +13,36 @@
 
 ## ✦ who dis
 
-<table>
-<tr>
-<td width="58%" valign="top">
+<img align="right" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180"/>
 
-```yaml
-# ══ haseeba.yaml ══════════════════════════
-
-name:      "Haseeba Faiza"
-college:   "MLRIT Hyderabad · CS Data Science"
-year:      2nd  →  graduating 2028
-cgpa:      8.6
-
-roles:
-  ◈  Full Stack Developer
-  ◈  AI / ML Engineer
-  ◈  Hackathon Builder
-
-frontend:  [ React, Tailwind, GSAP ]
-backend:   [ FastAPI, Express.js ]
-ml:        [ TensorFlow, Scikit-learn, Keras, Pandas ]
-db:        [ PostgreSQL, MySQL ]
-languages: [ Python, Java, SQL ]
-ai_llm:    [ Groq API, LangChain ]
-tools:     [ Git, Streamlit, Railway ]
-
-currently:
-  → CNNs · RNNs · LSTMs
-  → Agentic AI systems
-  → Docker · Cloud
-
-big_win:   "Top 10 / 220+ @ SUDHEE 2026 🏆"
-vibe:      "vibe-code boilerplate, own the core 😤"
-endgame:   "build products · start companies 🚀"
 ```
-
-</td>
-<td width="42%" align="center" valign="middle">
-
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="160" alt="cat coding"/>
-
-<br/>
+ ╔══════════════════════════════════════════╗
+ ║  > whoami                                ║
+ ╠══════════════════════════════════════════╣
+ ║  name     →  Haseeba Faiza               ║
+ ║  college  →  MLRIT · CS Data Science     ║
+ ║  year     →  2nd · graduating 2028       ║
+ ║  cgpa     →  8.6 ✦                       ║
+ ╠══════════════════════════════════════════╣
+ ║  > roles                                 ║
+ ║  ◈  Full Stack Developer                 ║
+ ║  ◈  AI / ML Engineer                     ║
+ ║  ◈  Hackathon Builder 🏆                 ║
+ ╠══════════════════════════════════════════╣
+ ║  > currently_learning                    ║
+ ║  → CNNs · RNNs · LSTMs                   ║
+ ║  → Agentic AI · Docker · Cloud           ║
+ ╠══════════════════════════════════════════╣
+ ║  big_win  →  Top 10 / 220+ @ SUDHEE 2026 ║
+ ║  vibe     →  own the core, ship fast 😤  ║
+ ║  endgame  →  build products · companies  ║
+ ╚══════════════════════════════════════════╝
+```
 
 ![](https://img.shields.io/badge/🏆_Top_10_/_220+_teams-FF6EB4?style=flat-square)
 ![](https://img.shields.io/badge/🚀_3+_deployed_apps-FF85C2?style=flat-square)
-![](https://img.shields.io/badge/🌸_Hyderabad-FFB3D9?style=flat-square)
-
-</td>
-</tr>
-</table>
+![](https://img.shields.io/badge/🌸_Hyderabad_IN-FFB3D9?style=flat-square)
+![](https://img.shields.io/badge/CGPA_8.6-FF94CC?style=flat-square)
 
 ---
 
@@ -69,16 +50,38 @@ endgame:   "build products · start companies 🚀"
 
 <div align="center">
 
-| | Tools |
-|---|---|
-| 🤖 **AI / ML** | ![Python](https://img.shields.io/badge/Python-FF6EB4?style=flat-square&logo=python&logoColor=fff) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF79BC?style=flat-square&logo=tensorflow&logoColor=fff) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-FF94CC?style=flat-square&logo=scikit-learn&logoColor=fff) ![Pandas](https://img.shields.io/badge/Pandas-FFADD9?style=flat-square&logo=pandas&logoColor=333) ![Keras](https://img.shields.io/badge/Keras-FF6EB4?style=flat-square&logo=keras&logoColor=fff) |
-| ⚡ **Frontend** | ![React](https://img.shields.io/badge/React-FF6EB4?style=flat-square&logo=react&logoColor=fff) ![Tailwind](https://img.shields.io/badge/Tailwind-FF79BC?style=flat-square&logo=tailwind-css&logoColor=fff) ![GSAP](https://img.shields.io/badge/GSAP-FF94CC?style=flat-square&logo=greensock&logoColor=fff) |
-| 💬 **Languages** | ![Java](https://img.shields.io/badge/Java-FF6EB4?style=flat-square&logo=openjdk&logoColor=fff) ![SQL](https://img.shields.io/badge/SQL-FF79BC?style=flat-square&logo=mysql&logoColor=fff) |
-| 🔧 **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-FF6EB4?style=flat-square&logo=fastapi&logoColor=fff) ![Express](https://img.shields.io/badge/Express.js-FF79BC?style=flat-square&logo=express&logoColor=fff) |
-| 🗄️ **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FF6EB4?style=flat-square&logo=postgresql&logoColor=fff) ![MySQL](https://img.shields.io/badge/MySQL-FF79BC?style=flat-square&logo=mysql&logoColor=fff) |
-| 🧠 **AI / LLM** | ![Groq API](https://img.shields.io/badge/Groq_API-FF6EB4?style=flat-square&logoColor=fff) ![LangChain](https://img.shields.io/badge/LangChain-FF79BC?style=flat-square&logo=chainlink&logoColor=fff) |
-| 🛠️ **Tools** | ![Git](https://img.shields.io/badge/Git-FF6EB4?style=flat-square&logo=git&logoColor=fff) ![Streamlit](https://img.shields.io/badge/Streamlit-FF79BC?style=flat-square&logo=streamlit&logoColor=fff) ![Railway](https://img.shields.io/badge/Railway-FF94CC?style=flat-square&logo=railway&logoColor=fff) |
-| 📦 **Learning** | ![Docker](https://img.shields.io/badge/Docker-FF6EB4?style=flat-square&logo=docker&logoColor=fff) |
+### 🤖 AI / ML
+![Python](https://img.shields.io/badge/Python-1a0010?style=for-the-badge&logo=python&logoColor=FF6EB4&labelColor=1a0010)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1a0010?style=for-the-badge&logo=tensorflow&logoColor=FF79BC&labelColor=1a0010)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1a0010?style=for-the-badge&logo=scikit-learn&logoColor=FF94CC&labelColor=1a0010)
+![Pandas](https://img.shields.io/badge/Pandas-1a0010?style=for-the-badge&logo=pandas&logoColor=FFADD9&labelColor=1a0010)
+![Keras](https://img.shields.io/badge/Keras-1a0010?style=for-the-badge&logo=keras&logoColor=FF6EB4&labelColor=1a0010)
+
+### ⚡ Frontend
+![React](https://img.shields.io/badge/React-1a0010?style=for-the-badge&logo=react&logoColor=FF6EB4&labelColor=1a0010)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1a0010?style=for-the-badge&logo=tailwind-css&logoColor=FF79BC&labelColor=1a0010)
+![GSAP](https://img.shields.io/badge/GSAP-1a0010?style=for-the-badge&logo=greensock&logoColor=FF94CC&labelColor=1a0010)
+
+### 💬 Languages
+![Python](https://img.shields.io/badge/Python-1a0010?style=for-the-badge&logo=python&logoColor=FF6EB4&labelColor=1a0010)
+![Java](https://img.shields.io/badge/Java-1a0010?style=for-the-badge&logo=openjdk&logoColor=FF79BC&labelColor=1a0010)
+![SQL](https://img.shields.io/badge/SQL-1a0010?style=for-the-badge&logo=mysql&logoColor=FF94CC&labelColor=1a0010)
+
+### 🔧 Backend & Database
+![FastAPI](https://img.shields.io/badge/FastAPI-1a0010?style=for-the-badge&logo=fastapi&logoColor=FF6EB4&labelColor=1a0010)
+![Express.js](https://img.shields.io/badge/Express.js-1a0010?style=for-the-badge&logo=express&logoColor=FF79BC&labelColor=1a0010)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a0010?style=for-the-badge&logo=postgresql&logoColor=FF94CC&labelColor=1a0010)
+![MySQL](https://img.shields.io/badge/MySQL-1a0010?style=for-the-badge&logo=mysql&logoColor=FFADD9&labelColor=1a0010)
+
+### 🧠 AI / LLM
+![Groq API](https://img.shields.io/badge/Groq_API-1a0010?style=for-the-badge&logo=groq&logoColor=FF6EB4&labelColor=1a0010)
+![LangChain](https://img.shields.io/badge/LangChain-1a0010?style=for-the-badge&logo=chainlink&logoColor=FF79BC&labelColor=1a0010)
+
+### 🛠️ Tools & Deploy
+![Git](https://img.shields.io/badge/Git-1a0010?style=for-the-badge&logo=git&logoColor=FF6EB4&labelColor=1a0010)
+![Streamlit](https://img.shields.io/badge/Streamlit-1a0010?style=for-the-badge&logo=streamlit&logoColor=FF79BC&labelColor=1a0010)
+![Railway](https://img.shields.io/badge/Railway-1a0010?style=for-the-badge&logo=railway&logoColor=FF94CC&labelColor=1a0010)
+![Docker](https://img.shields.io/badge/Docker-1a0010?style=for-the-badge&logo=docker&logoColor=FFADD9&labelColor=1a0010)
 
 </div>
 
@@ -88,17 +91,124 @@ endgame:   "build products · start companies 🚀"
 
 <div align="center">
 
-| 🏦 Customer Churn Prediction | ⚖️ LegalShe | 🏙️ AI Civic Issue Reporting |
-|:---:|:---:|:---:|
-| ANN predicting bank churn · live & deployed | AI legal assistant · built for women | 🏆 Top 10 @ SUDHEE 2026 · 220+ teams |
-| ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6EB4?style=flat-square&logo=tensorflow&logoColor=fff) ![Streamlit](https://img.shields.io/badge/Streamlit-FF85C2?style=flat-square&logo=streamlit&logoColor=fff) | ![React](https://img.shields.io/badge/React-FF6EB4?style=flat-square&logo=react&logoColor=fff) ![Groq](https://img.shields.io/badge/Groq_API-FF85C2?style=flat-square) | ![React](https://img.shields.io/badge/React-FF6EB4?style=flat-square&logo=react&logoColor=fff) ![Python](https://img.shields.io/badge/Python-FF85C2?style=flat-square&logo=python&logoColor=fff) |
-| [![LIVE DEMO](https://img.shields.io/badge/LIVE_DEMO-FF6EB4?style=for-the-badge)](https://github.com/Haseeba-f/customer-churn-prediction) | [![REPO](https://img.shields.io/badge/REPO-FF85C2?style=for-the-badge)](https://github.com/Haseeba-f) | [![REPO](https://img.shields.io/badge/REPO-FF85C2?style=for-the-badge)](https://github.com/Haseeba-f/civic-issue-reporting-system) |
+<table>
+<tr>
 
-| 📊 Trader Sentiment Analysis | 🤖 Jarvis Clap Automation | ⚡ GSAP Energy Drink Site |
-|:---:|:---:|:---:|
-| Bitcoin Fear/Greed × Hyperliquid behavior | double-clap → launches apps in real time | scroll-triggered animations · landing page |
-| ![Pandas](https://img.shields.io/badge/Pandas-FF6EB4?style=flat-square&logo=pandas&logoColor=fff) ![KMeans](https://img.shields.io/badge/KMeans-FF85C2?style=flat-square) | ![Python](https://img.shields.io/badge/Python-FF6EB4?style=flat-square&logo=python&logoColor=fff) ![OpenCV](https://img.shields.io/badge/OpenCV-FF85C2?style=flat-square&logo=opencv&logoColor=fff) | ![GSAP](https://img.shields.io/badge/GSAP-FF6EB4?style=flat-square&logo=greensock&logoColor=fff) ![React](https://img.shields.io/badge/React-FF85C2?style=flat-square&logo=react&logoColor=fff) |
-| [![REPO](https://img.shields.io/badge/REPO-FFB3D9?style=for-the-badge)](https://github.com/Haseeba-f/trader_sentiment_analysis) | [![REPO](https://img.shields.io/badge/REPO-FFB3D9?style=for-the-badge)](https://github.com/Haseeba-f/jarvis-clap-automation) | [![REPO](https://img.shields.io/badge/REPO-FFB3D9?style=for-the-badge)](https://github.com/Haseeba-f/gsapawwards) |
+<td width="50%" valign="top">
+<h3>🏙️ AI Civic Issue Reporting</h3>
+<img src="https://img.shields.io/badge/🏆_TOP_10_/_220+_TEAMS-FF6EB4?style=flat-square"/>
+
+```
+Built an end-to-end AI system for
+reporting and routing civic issues
+during a national hackathon — from
+scratch, under time pressure. 🔥
+```
+
+![React](https://img.shields.io/badge/React-1a0010?style=flat-square&logo=react&logoColor=FF6EB4)
+![Python](https://img.shields.io/badge/Python-1a0010?style=flat-square&logo=python&logoColor=FF79BC)
+![FastAPI](https://img.shields.io/badge/FastAPI-1a0010?style=flat-square&logo=fastapi&logoColor=FF94CC)
+
+[![→ REPO](https://img.shields.io/badge/→_REPO-FF6EB4?style=for-the-badge)](https://github.com/Haseeba-f/civic-issue-reporting-system)
+</td>
+
+<td width="50%" valign="top">
+<h3>⚖️ LegalShe</h3>
+<img src="https://img.shields.io/badge/AI_LEGAL_ASSISTANT-FF85C2?style=flat-square"/>
+
+```
+AI-powered legal guide built for
+women — simplifies complex legal
+language and surfaces rights in
+plain, accessible terms. 💜
+```
+
+![React](https://img.shields.io/badge/React-1a0010?style=flat-square&logo=react&logoColor=FF6EB4)
+![Groq API](https://img.shields.io/badge/Groq_API-1a0010?style=flat-square&logoColor=FF79BC)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-1a0010?style=flat-square&logo=tailwind-css&logoColor=FF94CC)
+
+[![→ REPO](https://img.shields.io/badge/→_REPO-FF85C2?style=for-the-badge)](https://github.com/Haseeba-f)
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+<h3>🏦 Customer Churn Prediction</h3>
+<img src="https://img.shields.io/badge/LIVE_%26_DEPLOYED-FFB3D9?style=flat-square"/>
+
+```
+ANN model that predicts bank
+customer churn — trained, tuned,
+and shipped with a Streamlit UI.
+Actually live. 🚀
+```
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1a0010?style=flat-square&logo=tensorflow&logoColor=FF6EB4)
+![Keras](https://img.shields.io/badge/Keras-1a0010?style=flat-square&logo=keras&logoColor=FF79BC)
+![Streamlit](https://img.shields.io/badge/Streamlit-1a0010?style=flat-square&logo=streamlit&logoColor=FF94CC)
+
+[![→ LIVE DEMO](https://img.shields.io/badge/→_LIVE_DEMO-FF6EB4?style=for-the-badge)](https://github.com/Haseeba-f/customer-churn-prediction)
+</td>
+
+<td width="50%" valign="top">
+<h3>📊 Trader Sentiment Analysis</h3>
+<img src="https://img.shields.io/badge/DATA_SCIENCE-FF94CC?style=flat-square"/>
+
+```
+End-to-end analysis of how Bitcoin
+Fear/Greed index shapes trader
+behavior on Hyperliquid — clusters,
+patterns, insights. 📈
+```
+
+![Pandas](https://img.shields.io/badge/Pandas-1a0010?style=flat-square&logo=pandas&logoColor=FF6EB4)
+![Scikit-learn](https://img.shields.io/badge/KMeans-1a0010?style=flat-square&logo=scikit-learn&logoColor=FF79BC)
+![Python](https://img.shields.io/badge/Python-1a0010?style=flat-square&logo=python&logoColor=FF94CC)
+
+[![→ REPO](https://img.shields.io/badge/→_REPO-FFB3D9?style=for-the-badge)](https://github.com/Haseeba-f/trader_sentiment_analysis)
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+<h3>🤖 Jarvis Clap Automation</h3>
+<img src="https://img.shields.io/badge/COMPUTER_VISION-FF79BC?style=flat-square"/>
+
+```
+Double-clap detection with OpenCV
+launches GitHub, LeetCode & Spotify
+in real time. Because why type
+when you can clap? 👏
+```
+
+![Python](https://img.shields.io/badge/Python-1a0010?style=flat-square&logo=python&logoColor=FF6EB4)
+![OpenCV](https://img.shields.io/badge/OpenCV-1a0010?style=flat-square&logo=opencv&logoColor=FF79BC)
+
+[![→ REPO](https://img.shields.io/badge/→_REPO-FFB3D9?style=for-the-badge)](https://github.com/Haseeba-f/jarvis-clap-automation)
+</td>
+
+<td width="50%" valign="top">
+<h3>⚡ GSAP Energy Drink Site</h3>
+<img src="https://img.shields.io/badge/SCROLL_ANIMATIONS-FF6EB4?style=flat-square"/>
+
+```
+Landing page for Alani Nu Energy
+with scroll-triggered GSAP
+animations, vibrant visuals
+and full responsive design. ✨
+```
+
+![GSAP](https://img.shields.io/badge/GSAP-1a0010?style=flat-square&logo=greensock&logoColor=FF6EB4)
+![React](https://img.shields.io/badge/React-1a0010?style=flat-square&logo=react&logoColor=FF79BC)
+![Tailwind](https://img.shields.io/badge/Tailwind-1a0010?style=flat-square&logo=tailwind-css&logoColor=FF94CC)
+
+[![→ REPO](https://img.shields.io/badge/→_REPO-FFB3D9?style=for-the-badge)](https://github.com/Haseeba-f/gsapawwards)
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -122,14 +232,18 @@ endgame:   "build products · start companies 🚀"
 
 ## ✦ wins
 
-```diff
-+ 🏆  Top 10 / 220+ teams — SUDHEE 2026 National Hackathon @ CBIT
-+ 🤝  Co-organized Ignitia 2K26 — 200+ participants, ₹20K prize pool
-+ 🚀  3+ deployed ML + Full Stack projects — live and working
-+ 📊  End-to-end Hyperliquid × Bitcoin Fear/Greed analysis
-+ 🤖  Built AI Civic Reporting System from scratch in hackathon hours
-+ 🎓  CGPA 8.6 · CS Data Science · MLRIT Hyderabad
-```
+<div align="center">
+
+| &nbsp; | Achievement | Details |
+|:---:|:---|:---|
+| 🏆 | **Top 10 / 220+ teams** | SUDHEE 2026 National Hackathon @ CBIT |
+| 🤝 | **Co-organized Ignitia 2K26** | 200+ participants · ₹20K prize pool |
+| 🚀 | **3+ deployed projects** | Live ML + Full Stack apps · actually working |
+| 📊 | **Hyperliquid × BTC analysis** | End-to-end Fear/Greed trader behavior study |
+| 🤖 | **AI Civic System** | Built from scratch in hackathon hours |
+| 🎓 | **CGPA 8.6** | CS Data Science · MLRIT Hyderabad |
+
+</div>
 
 ---
 
